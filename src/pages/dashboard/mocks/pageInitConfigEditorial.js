@@ -685,7 +685,7 @@ export default {
 		action: 'emit',
 		fields: [
 			{
-				name: 'citationsRaw',
+				name: 'rawCitations',
 				component: 'field-textarea',
 				label: 'References',
 				description:
