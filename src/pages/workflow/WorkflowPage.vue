@@ -1,3 +1,4 @@
+<!-- // todo: @gaziyucel structured citations -->
 <template>
 	<SideModalBody>
 		<template #pre-title>
