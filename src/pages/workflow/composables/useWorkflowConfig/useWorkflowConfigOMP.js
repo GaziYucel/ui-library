@@ -1,3 +1,4 @@
+// todo: @GaziYucel structured citations
 import {DashboardPageTypes} from '@/pages/dashboard/dashboardPageStore';
 import {deepMerge} from '@/utils/deepMerge';
 import * as ConfigAuthorOJS from './workflowConfigAuthorOJS';
